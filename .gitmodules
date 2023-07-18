@@ -1,0 +1,3 @@
+[submodule "distinguish_c_and_cpp"]
+	path = distinguish_c_and_cpp
+	url = https://github.com/xmasux/distinguish_c_and_cpp.git
